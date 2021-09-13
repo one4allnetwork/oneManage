@@ -1,1 +1,1 @@
-This convertigo project template can be used to start a Mobile Builder Ionic project with Convertigo.
+oneManage is a management tool for self-employed people built with the Convertigo low-code technology.
